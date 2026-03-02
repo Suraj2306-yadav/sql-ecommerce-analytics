@@ -78,8 +78,9 @@ sql-analytics-project/
 │   └─ repeat_purchase_rate.sql
 ├─ 4_cohort_analysis/
 │   └─ cohort_analysis.sql
-├─ 5_rfm_clv/
-│   └─ rfm_clv.sql
+├─ 5_rfm&clv/
+│   └─ rfm.sql
+│   └─ clv.sql
 └─ README.md
 
 ```
