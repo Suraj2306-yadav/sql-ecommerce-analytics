@@ -68,14 +68,19 @@ Based on the data, I propose the following interventions:
 ## 6️⃣ Repository Structure
 
 ```bash
-├── SQL_Queries/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_revenue_growth.sql
-│   ├── 03_cohort_analysis.sql
-│   └── 04_rfm_segmentation.sql
-├── Data_Dictionary/
-│   └── schema_overview.md
-└── README.md
+sql-analytics-project/
+│
+├─ 1_cleaning/
+│   └─ clean_orders.sql
+├─ 2_revenue_trend/
+│   └─ monthly_revenue.sql
+├─ 3_customer_retention/
+│   └─ repeat_purchase_rate.sql
+├─ 4_cohort_analysis/
+│   └─ cohort_analysis.sql
+├─ 5_rfm_clv/
+│   └─ rfm_clv.sql
+└─ README.md
 
 ```
 
