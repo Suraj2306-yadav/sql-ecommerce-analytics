@@ -100,7 +100,3 @@ sql-analytics-project/
 
 
 ---
-
-### What should we do next?
-
-To make this repo truly "internship-ready," would you like me to **write the actual SQL code for the Cohort Analysis** (Stage 5) so you can include it in the `SQL_Queries/` folder?
