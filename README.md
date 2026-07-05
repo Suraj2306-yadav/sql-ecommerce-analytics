@@ -1,4 +1,4 @@
-# 📊 E-Commerce Customer & Revenue Analytics
+# 📊 E-Commerce-Sales-Analytics
 
 **Tooling:** Google BigQuery (SQL) | **Dataset:** `thelook_ecommerce` | **Focus:** Growth, Retention, & RFM Modeling
 
